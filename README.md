@@ -1,4 +1,5 @@
-# client
+# Client
+Aplicação criada durante o curso Nuxt JS Crash Course do canal Laith Harb.
 
 ## Build Setup
 
